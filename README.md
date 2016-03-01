@@ -17,7 +17,7 @@ You can use the plugin by adding it to the plug-in section in your pom;
 		<plugin>
 			<groupId>com.sonicle.maven</groupId>
 			<artifactId>jasperreports-maven-plugin</artifactId>
-			<version>2.0</version>
+			<version>1.0.22</version>
 			<executions>
 				<execution>
 					<phase>process-sources</phase>

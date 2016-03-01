@@ -1,4 +1,4 @@
-JasperReports-plugin
+Sonicle JasperReports Maven Plugin
 =============
 
 This maven compiles Jasper files to the target directory. 
@@ -15,8 +15,8 @@ You can use the plugin by adding it to the plug-in section in your pom;
 <build>
 	<plugins>
 		<plugin>
-			<groupId>com.alexnederlof</groupId>
-			<artifactId>jasperreports-plugin</artifactId>
+			<groupId>com.sonicle.maven</groupId>
+			<artifactId>jasperreports-maven-plugin</artifactId>
 			<version>2.0</version>
 			<executions>
 				<execution>
